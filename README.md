@@ -1,2 +1,2 @@
 # I dont know what im doing
-What is this
+This is a place where i do things because i have no idea how git works. 
